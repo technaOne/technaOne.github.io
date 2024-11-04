@@ -1195,7 +1195,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #team .member img {
   width: 100%; /* Ajusta a imagem ao tamanho do contêiner */
-  height: 300px; /* Altura padrão para todas as imagens */
+  
   object-fit: cover; /* Ajusta a imagem para preencher o contêiner sem distorção */
 }
 
